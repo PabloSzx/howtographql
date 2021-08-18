@@ -10,13 +10,8 @@
     "lib": ["es7", "dom"],
     "allowJs": true,
     "noUnusedLocals": true,
-    "types": [
-      "@types/node"
-    ]
+    "types": ["@types/node"],
+    "moduleResolution": "node"
   },
-  "exclude": [
-    "node_modules",
-    "dist",
-    ".cache"
-  ]
+  "exclude": ["node_modules", "dist", ".cache"]
 }
