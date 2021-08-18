@@ -30,7 +30,7 @@ In this tutorial, we will use:
 
 
 
-You can find all the other plugins which you can use with GraphQL EZ has [here](https://www.graphql-ez.com/plugins) and if you want to explore envelop plugins, you can find them [here](https://github.com/dotansimha/envelop#available-plugins)
+You can find all the other plugins which you can use with GraphQL EZ has [here](https://www.graphql-ez.com/plugins) and if you want to explore envelop plugins, you can find them [here](https://www.envelop.dev/plugins)
 
 ### Creating the project
 
